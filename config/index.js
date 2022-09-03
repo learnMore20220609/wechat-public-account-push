@@ -18,7 +18,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "VZz2foV5V5BUpWE43mn8HjfE9WCTiGx5DzmfyPYngLM",
+   *    useTemplateId: "YZ8LylT3Iyv9RUJv0Ju7l-anJDDq0U7u-byBbbvk9qg",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F"
    *   }, 
