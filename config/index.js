@@ -75,7 +75,6 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "美丽可爱无敌小婧婧", "year": "1998", "date": "12-11"},
-    {"type": "节日", "name": "恋爱纪念日", "year": "2021", "date": "06-01"},
     {"type": "生日", "name": "最爱你的男人", "year": "1998", "date": "07-19"},
   ],
 
